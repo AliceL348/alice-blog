@@ -14,6 +14,7 @@ body {
   font-size: 40px;
   text-align: center;
   background: #FFD700;
+  border: black;
 }
 
 /* Create two unequal columns that floats next to each other */
