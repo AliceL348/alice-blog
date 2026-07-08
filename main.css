@@ -22,6 +22,7 @@ body {
 .leftcolumn {
   float: left;
   width: 75%;
+  text-wrap: pretty;
 }
 
 /* Right column */
