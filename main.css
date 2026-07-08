@@ -23,6 +23,7 @@ body {
   float: left;
   width: 75%;
   text-wrap: pretty;
+  padding-top: 75px;
 }
 
 /* Right column */
