@@ -90,9 +90,9 @@ li a:hover {
 	text-transform: uppercase;
 	border-radius: 1rem;
 	font-family: 'Courier';
-	-webkit-mask-image: grunge.png;
-  -webkit-mask-size: 944px 604px;
-  mix-blend-mode: multiply;
+	-webkit-mask-image: url(grunge.png);
+    -webkit-mask-size: 944px 604px;
+    mix-blend-mode: multiply;
 }
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
