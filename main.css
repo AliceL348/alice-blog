@@ -82,7 +82,7 @@ li a:hover {
 .stamp {
   transform: rotate(12deg);
 	color: #555;
-	font-size: 3rem;
+	font-size: 1rem;
 	font-weight: 700;
 	border: 0.25rem solid #555;
 	display: inline-block;
