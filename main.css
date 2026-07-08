@@ -67,14 +67,19 @@ ul {
   position: fixed;
   overflow: auto;
 }
-ul a {
+
+ul li {
+  float: center;
+}
+
+ul li a {
   display: block;
   color: black;
   padding: 8px 16px;
   text-decoration: none;
 }
 
-ul a:hover {
+ul li a:hover {
   background-color: #555555;
   color: white;
 }
