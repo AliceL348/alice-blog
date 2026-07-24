@@ -45,6 +45,12 @@ body {
   padding-left: 20px;
 }
 
+article {
+	float: centre;
+	width: 50%;
+	margin-top: 20px;
+}
+
 /* Add a card effect for articles */
 .card {
   background-color: white;
