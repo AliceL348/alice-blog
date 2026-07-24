@@ -87,9 +87,16 @@ ul li a {
   class: "lekton-regular"
 }
 
-ul li a:hover {
+a:hover {
   background-color: #555555;
   color: white;
+}
+
+
+
+article:hover {
+	background-color: #555555;
+  text-color: white;
 }
 
 .stamp {
